@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/about_apk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/tv_versi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/versi_aplikasi"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/versi_aplikasi" />
+
+    <TextView
+        android:id="@+id/tv_bukupanduan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/trebuc"
+        android:text="@string/buku_panduan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_logo_by" />
+
+    <TextView
+        android:id="@+id/tv_no1"
+        android:layout_width="346dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/trebuc"
+        android:text="@string/no1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.615"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_bukupanduan" />
+
+    <TextView
+        android:id="@+id/tv_no3"
+        android:layout_width="338dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no3"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no2"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_no2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no22" />
+
+    <TextView
+        android:id="@+id/tv_no2"
+        android:layout_width="348dp"
+        android:layout_height="21dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no2"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no11"
+        app:layout_constraintHorizontal_bias="0.515"
+        app:layout_constraintStart_toStartOf="@+id/tv_no11"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no11" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="347dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no5"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no44"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_no44"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no44"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="354dp"
+        android:layout_height="21dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no4"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no33"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="@+id/tv_no33"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no33" />
+
+    <TextView
+        android:id="@+id/tv_apk_by"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/trebuc"
+        android:text="@string/aplikasi_by"
+        app:layout_constraintEnd_toEndOf="@+id/tv_versi"
+        app:layout_constraintStart_toStartOf="@+id/tv_versi"
+        app:layout_constraintTop_toBottomOf="@+id/tv_versi"
+        tools:text="@string/aplikasi_by" />
+
+    <TextView
+        android:id="@+id/tv_logo_by"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/trebuc"
+        android:text="@string/logo_by"
+        app:layout_constraintEnd_toEndOf="@+id/tv_apk_by"
+        app:layout_constraintStart_toStartOf="@+id/tv_apk_by"
+        app:layout_constraintTop_toBottomOf="@+id/tv_apk_by"
+        tools:text="@string/logo_by" />
+
+    <TextView
+        android:id="@+id/tv_no22"
+        android:layout_width="314dp"
+        android:layout_height="19dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no22"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no2"
+        app:layout_constraintStart_toStartOf="@+id/tv_no2"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no2" />
+
+    <TextView
+        android:id="@+id/tv_no33"
+        android:layout_width="315dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no33"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no3"
+        app:layout_constraintHorizontal_bias="0.782"
+        app:layout_constraintStart_toStartOf="@+id/tv_no3"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no3" />
+
+    <TextView
+        android:id="@+id/tv_no11"
+        android:layout_width="315dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no11"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no1"
+        app:layout_constraintStart_toStartOf="@+id/tv_no1"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no1" />
+
+    <TextView
+        android:id="@+id/tv_no55"
+        android:layout_width="324dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no55"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/textView5"
+        app:layout_constraintHorizontal_bias="0.739"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <TextView
+        android:id="@+id/tv_no555"
+        android:layout_width="312dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no555"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no55"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tv_no55"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no55" />
+
+    <TextView
+        android:id="@+id/tv_no44"
+        android:layout_width="330dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/no44"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintEnd_toEndOf="@+id/textView6"
+        app:layout_constraintHorizontal_bias="0.75"
+        app:layout_constraintStart_toStartOf="@+id/textView6"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/tv_coba"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_register"
+        android:fontFamily="@font/trebuc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/tv_no555"
+        app:layout_constraintHorizontal_bias="0.465"
+        app:layout_constraintStart_toStartOf="@+id/tv_no555"
+        app:layout_constraintTop_toBottomOf="@+id/tv_no555"
+        app:layout_constraintVertical_bias="0.102" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

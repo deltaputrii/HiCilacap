@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/profil_cilacap"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_letak_cilacap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="9dp"
+            android:text="@string/tv_kabupaten_cilacap"
+            android:justificationMode="inter_word"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.508"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="@string/tv_kabupaten_cilacap" />
+
+        <Button
+            android:id="@+id/button_lokasi"
+            android:layout_width="86dp"
+            android:layout_height="48dp"
+            android:text="@string/lokasii"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.84"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_visi_misi"
+            tools:text="@string/lokasii" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/tv_visi_misi"
+            android:layout_width="319dp"
+            android:layout_height="144dp"
+            android:layout_marginTop="4dp"
+            android:text="@string/letak"
+            android:fontFamily="@font/trebuc"
+            android:justificationMode="inter_word"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.489"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_letak_cilacap" />
+
+        <TextView
+            android:id="@+id/tv_profil_pimpinan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="@string/profil_pimpinan"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_misi_cilacap"
+            tools:text="@string/profil_pimpinan" />
+
+        <TextView
+            android:id="@+id/tv_bupati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/bupati"
+            android:textSize="17dp"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_profil_pimpinan"
+            tools:text="@string/bupati" />
+
+        <ImageView
+            android:id="@+id/img_bupati"
+            android:layout_width="110dp"
+            android:layout_height="175dp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_bupati"
+            app:layout_constraintHorizontal_bias="0.507"
+            app:layout_constraintStart_toStartOf="@+id/tv_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/tv_bupati"
+            app:srcCompat="@drawable/bupati" />
+
+        <TextView
+            android:id="@+id/tv_nama_bupati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="@string/nama_bupati"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/img_bupati"
+            app:layout_constraintStart_toStartOf="@+id/img_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/img_bupati" />
+
+        <TextView
+            android:id="@+id/tv_data_bupati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/data_bupati"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_nama_bupati"
+            app:layout_constraintStart_toStartOf="@+id/tv_nama_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/tv_nama_bupati" />
+
+        <ImageView
+            android:id="@+id/img_wakil_bupati"
+            android:layout_width="163dp"
+            android:layout_height="163dp"
+            android:layout_marginTop="15dp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_wakil_bupati"
+            app:layout_constraintStart_toStartOf="@+id/tv_wakil_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/tv_wakil_bupati"
+            app:srcCompat="@drawable/wakil_bupati" />
+
+        <TextView
+            android:id="@+id/tv_wakil_bupati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/wakil_bupati"
+            android:textSize="17dp"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_data_bupati"
+            app:layout_constraintStart_toStartOf="@+id/tv_data_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_bupati"
+            tools:text="@string/wakil_bupati" />
+
+        <TextView
+            android:id="@+id/tv_data_wakil_bupati"
+            android:layout_width="270dp"
+            android:layout_height="79dp"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/trebuc"
+            android:text="@string/data_wakil_bupati"
+            app:layout_constraintEnd_toEndOf="@+id/nama_wakil_bupati"
+            app:layout_constraintHorizontal_bias="0.464"
+            app:layout_constraintStart_toStartOf="@+id/nama_wakil_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/nama_wakil_bupati" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/tv_visi_cilacap"
+            android:layout_width="323dp"
+            android:layout_height="178dp"
+            android:text="@string/visi_cilacap"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_visi" />
+
+        <TextView
+            android:id="@+id/tv_visi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:text="@string/visi"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_visi_misi"
+            app:layout_constraintHorizontal_bias="0.476"
+            app:layout_constraintStart_toStartOf="@+id/tv_visi_misi"
+            app:layout_constraintTop_toBottomOf="@+id/tv_visi_misi" />
+
+        <TextView
+            android:id="@+id/tv_misi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/misi"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_visi"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_visi"
+            app:layout_constraintTop_toBottomOf="@+id/tv_visi_cilacap" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/tv_misi_cilacap"
+            android:layout_width="338dp"
+            android:layout_height="412dp"
+            android:text="@string/misi_cilacap"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_visi_cilacap"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_visi_cilacap"
+            app:layout_constraintTop_toBottomOf="@+id/tv_misi" />
+
+        <TextView
+            android:id="@+id/nama_wakil_bupati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/nama_wakil_bupati"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/img_wakil_bupati"
+            app:layout_constraintStart_toStartOf="@+id/img_wakil_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/img_wakil_bupati" />
+
+        <TextView
+            android:id="@+id/tv_sejarah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/sejarah"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/img_wakil_bupati"
+            app:layout_constraintStart_toStartOf="@+id/img_wakil_bupati"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_wakil_bupati" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/tv_sejarah_cilacap"
+            android:layout_width="337dp"
+            android:layout_height="2099dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/trebuc"
+            android:text="@string/sejarah_cilacap"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.562"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_sejarah" />
+
+        <TextView
+            android:id="@+id/tv_lambangmottosesanti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/lambang_motto_sesanti"
+            android:textSize="19dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_sejarah_cilacap" />
+
+        <ImageView
+            android:id="@+id/img_lambang"
+            android:layout_width="158dp"
+            android:layout_height="117dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_lambang"
+            app:layout_constraintHorizontal_bias="0.482"
+            app:layout_constraintStart_toStartOf="@+id/tv_lambang"
+            app:layout_constraintTop_toBottomOf="@+id/tv_lambang"
+            app:srcCompat="@drawable/logo_cilacap" />
+
+        <TextView
+            android:id="@+id/tv_lambang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Lambang"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/tv_lambangmottosesanti"
+            app:layout_constraintStart_toStartOf="@+id/tv_lambangmottosesanti"
+            app:layout_constraintTop_toBottomOf="@+id/tv_lambangmottosesanti" />
+
+        <me.biubiubiu.justifytext.library.JustifyTextView
+            android:id="@+id/tv_artilambang"
+            android:layout_width="330dp"
+            android:layout_height="1030dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/trebuc"
+            android:text="@string/arti_lambang"
+            app:layout_constraintEnd_toEndOf="@+id/img_lambang"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="@+id/img_lambang"
+            app:layout_constraintTop_toBottomOf="@+id/img_lambang" />
+
+        <TextView
+            android:id="@+id/tv_motto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1052dp"
+            android:fontFamily="@font/trebuc"
+            android:text="@string/motto"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/tv_lambang"
+            app:layout_constraintHorizontal_bias="0.44"
+            app:layout_constraintStart_toStartOf="@+id/tv_lambang"
+            app:layout_constraintTop_toBottomOf="@+id/img_lambang" />
+
+        <ImageView
+            android:id="@+id/img_motto"
+            android:layout_width="238dp"
+            android:layout_height="128dp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_motto"
+            app:layout_constraintHorizontal_bias="0.505"
+            app:layout_constraintStart_toStartOf="@+id/tv_motto"
+            app:layout_constraintTop_toBottomOf="@+id/tv_motto"
+            app:srcCompat="@drawable/motto" />
+
+        <TextView
+            android:id="@+id/tv_arti_motto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/arti_motto"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/img_motto"
+            app:layout_constraintHorizontal_bias="0.507"
+            app:layout_constraintStart_toStartOf="@+id/img_motto"
+            app:layout_constraintTop_toBottomOf="@+id/img_motto" />
+
+        <TextView
+            android:id="@+id/tv_sesanti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/sesanti"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/trebuc"
+            app:layout_constraintEnd_toEndOf="@+id/tv_arti_motto"
+            app:layout_constraintHorizontal_bias="0.503"
+            app:layout_constraintStart_toStartOf="@+id/tv_arti_motto"
+            app:layout_constraintTop_toBottomOf="@+id/tv_arti_motto" />
+
+        <TextView
+            android:id="@+id/tv_arti_sesanti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/trebuc"
+            android:gravity="center"
+            android:text="@string/arti_sesanti"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/tv_sesanti"
+            app:layout_constraintStart_toStartOf="@+id/tv_sesanti"
+            app:layout_constraintTop_toBottomOf="@+id/tv_sesanti" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Hi Cilacap baru</string>
+    <string name="nama_explore">Nama</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="this_is_detailactivity">Detail Activity</string>
+    <string name="daftar_explore" />
+    <string name="usernameLogin">Username</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wisata_homepage">Wisata</string>
+    <string name="kuliner_homepage">Kuliner</string>
+    <string name="transportasi_homepage">Akses Transportasi</string>
+    <string name="btn_lokasi_cilacap">Lokasi</string>
+    <string name="bupati">Bupati</string>
+    <string name="tv_kabupaten_cilacap">Kabupaten Cilacap</string>
+    <string name="profil_pimpinan">Profil Pimpinan</string>
+    <string name="wakil_bupati">Wakil Bupati</string>
+    <string name="sejarah">Sejarah Kabupaten Cilacap</string>
+    <string name="lms"><![CDATA[Lambang, Motto & Sesanti]]></string>
+    <string name="lambang">Lambang</string>
+    <string name="motto">Motto</string>
+    <string name="sesanti">Sesanti</string>
+    <string name="tentang">Tentang Hi Cilacap</string>
+    <string name="sudahpunyaakun">Sudah punya akun?</string>
+    <string name="link_login"> Login</string>
+    <string name="mau_regist">Belum punya akun?</string>
+    <string name="link_register"> Daftar</string>
+    <string name="loading_splash">Loading</string>
+
+    <string name="letak">Salah satu kabupaten di Provinsi Jawa Tengah. \nIbu kota nya adalah Kota Cilacap. Kabupaten ini berbatasan dengan Kabupaten Brebes dan Kabupaten Banyumas di utara, Kabupaten Banyumas dan Kabupaten Kebumen di timur, Samudra Hindia di selatan, serta Kabupaten Ciamis, Kota Banjar, dan Kabupaten Pangandaran \n(Jawa Barat) di sebelah Barat.</string>
+    <string name="visi">VISI</string>
+    <string name="misi">MISI</string>
+    <string name="visi_cilacap">RPJMD Tahun 2017-2022 merupakan penjabaran dari tahapan pembangunan periode ketiga RPJPD Kabupaten Cilacap Tahun 2005-2025.
+\nTema pembangunan RPJPD periode ketiga dan keempat menjadi salah satu
+rujukan kepala daerah dalam menyusun Visi dan Misi Kabupaten Cilacap
+Tahun 2017 – 2022. Visi pembangunan Kabupaten Cilacap berdasarkan
+analisis visi Bupati dan Wakil Bupati terpilih adalah sebagai berikut :\nCILACAP SEMAKIN SEJAHTERA SECARA MERATA\n\n</string>
+
+    <string name="misi_cilacap">Untuk mewujudkan visi diatas maka dirumuskan 5 (lima) misi
+pembangunan daerah sebagai berikut:\n
+1. Misi Pertama \n\t\t Meningkatkan layanan pendidikan dan kesehatan \n\t\t rohani dan
+jasmani, serta kesejahteraan sosial \n\t\t dan keluarga.\n
+2. Misi Kedua \n\t\t Meningkatkan kualitas penyelenggaraan \n\t\t pemerintahan yang
+profesional bersifat \n\t\t entrepreneur dan dinamis dengan \n\t\t mengedepankan prinsip Good Governance dan \n\t\t Clean Government.\n
+3. Misi Ketiga \n\t\t Mewujudkan demokratisasi, stabilitas keamanan, \n\t\t ketertiban
+umum, ketentraman dan perlindungan \n\t\t masyarakat.\n
+4. Misi Keempat \n\t\t Mengembangkan perekonomian yang bertumpu \n\t\t pada potensi
+lokal dan regional.\n
+5. Misi Kelima \n\t\t Mengembangkan dan membangun infrastruktur \n\t\t wilayah
+dengan memperhatikan aspek lingkungan \n\t\t hidup dalam pemanfaatan
+sumber daya alam \n secara berkelanjutan.</string>
+    <string name="nama_bupati">H. Tatto Suwarto Pamuji</string>
+    <string name="data_bupati">Data Pribadi\nKantor : Jl. Jend. Sudirman No.32 Cilacap\nE-mail : bupati@cilacapkab.go.id\nTTL : Cilacap, 8 April 1957\nAlamat : Jl. Diponegoro 104 Majenang\nAgama : Islam</string>
+    <string name="nama_wakil_bupati">Syamsul Auliya Rachman, S.STP, MSi.</string>
+    <string name="data_wakil_bupati">Data Pribadi\nKantor : Jl. Jend. Sudirman No.32 Cilacap \n E-mail  : wakilbupati@cilacapkab.go.id\nAgama : Islam</string>
+
+    <string name="sejarah_cilacap">\t1. Zaman Kerajaan Jawa \n\t\t\t\t\t  Penelusuran sejarah zaman kerajaan Jawa \n\t\t diawali sejak zaman Kerajaan Mataram Hindu \n\t\t sampai dengan  Kerajaan Surakarta. Pada akhir zaman \n\t\t Kerajaan Majapahit (1294-1478) daerah cikal-bakal \n\t\t Kabupaten Cilacap terbagi dalam wilayah-wilayah Kerajaan \n\t\t  Majapahit, Adipati Pasir Luhur dan Kerajaan Pakuan \n\t\t  Pajajaran, yang wilayahnya membentang dari timur ke \n\t\t arah barat : \n\t\t
+        – Wilayah Ki Gede Ayah dan wilayah Ki Ageng Donan \n\t\t\t\t dibawah kekuasaan Kerajaan Majapahit.\n\t\t
+        – Wilayah Kerajaan Nusakambangan dan wilayah \n\t\t\t\t Adipati Pasir Luhur.\n\t\t
+        – Wilayah Kerajaan Pakuan Pajajaran.\n\n\t\t
+        \t\t\t\tMenurut Husein Djayadiningrat, Kerajaan Hindu \n\t\t Pakuan Pajajaran setelah diserang oleh Kerajaan \n\t\t Islam Banten dan Cirebon jatuh pada tahun 1579, \n\t\t sehingga bagian timur Kerajaan Pakuan Pajajaran \n\t\t diserahkan kepada Kerajaan Cirebon. Oleh karena \n\t\t itu seluruh wilayah cikal-bakal Kabupaten Cilacap \n\t\t di sebelah timur dibawah kekuasaan Kerajaan \n\t\t Islam Pajang dan sebelah barat diserahkan kepada \n\t\t Kerajaan Cirebon.\n\n
+\t\t\t\t\tKerajaan Pajang diganti dengan Kerajaan Mataram \n\t\t Islam yang didirikan oleh Panembahan Senopatipada \n\t\t tahun 1587-1755, maka daerah cikal bakal Kabupaten \n\t\t Cilacap yang semula di bawah kekuasaan Kerajaan \n\t\t Islam Pajang diserahkan kepada Kerajaan Mataram.
+\n\n\t\t\t\t\t Pada tahun 1595 Kerajaan Mataram mengadakan \n\t\t ekspansi ke Kabupaten Galuh yang berada di wilayah \n\t\t Kerajaan Cirebon. Menurut catatan harian Kompeni Belanda di Benteng Batavia, tanggal 21 Pebruari 1682 diterima surat yang berisi terjemahan perjalanan darat dari Citarum, sebelah utara Karawang ke Bagelen. Nama-nama yang dilalui dalam daerah cikal-bakal Kabupaten Cilacap adalah Dayeuhluhur dan Limbangan.
+2. Zaman Penjajahan Belanda
+Pembentukan Onder Afdeling Cilacap (dua bulan setelah Residen Launy bertugas) dengan besluit Gubernur Jenderal D.De Erens tanggal 17 Juli 1839 Nomor 1, memutuskan :
+“Demi kepentingan pelaksanaan pemerintahan daerah yang lebih rapi di kawasan selatan Banyumas dan peningkatan pembangunan pelabuhan Cilacap, maka sambil menunggu usul organisasi distrik-distrik bagian selatan yang akan menjadi bagiannya, satu dari tiga Asisten Resident di Karesidenan ini akan berkedudukan di Cilacap”.
+Karena daerah Banyumas Selatan dianggap terlalu luas untuk dipertahankan oleh Bupati Purwokerto dan Bupati Banyumas maka dengan Besluit tanggal 27 Juni 1841 Nomor 10 ditetapkan :”Patenschap” Dayeuhluhur dipisahkan dari Kabupaten Banyumas dan dijadikan satu afdeling tersendiri yaitu afdeling Cilacap dengan ibu kota Cilacap, yang menjadi tempat kedudukan Kepala Bestuur Eropa Asisten Residen dan Kepala Bestuur Pribumi Rangga atau Onder Regent. Dengan demikian Pemerintah Pribumi dinamakan Onder Regentschap setaraf dengan Patih Kepala Daerah Dayeuhluhur.
+Bagaimanapun pembentukan afdeling memenuhi keinginan Bupati Purwokerto dan Banyumas yang sudah lama ingin mengurangi daerah kekuasaan masing-masing dengan Patenschap Dayeuhluhur dan Distrik Adiraja.
+Adapun batas Distrik Adiraja yang bersama pattenschap Dayeuhluhur membentuk Onder Regentschap Cilacap menurut rencana Residen Banyumas De Sturier tertanggal 31 Maret 1831 adalah sebagai berikut:
+Dari muara Sungai Serayu ke hulu menuju titik tengah ketinggian Gunung Prenteng. Dari sana menuju puncak, turun ke arah tenggara pegunungan Kendeng, menuju puncak Gunung Gumelem (Igir Melayat). dari sana ke arah selatan mengikuti batas wilayah Karesidenan Banyumas menuju ke laut. Dari sana ke arah barat sepanjang pantai menuju muara Sungai Serayu.
+Dari batas-batas Distrik Adiraja dapat diketahui bahwa Distrik Adiraja sebagai cikal-bakal eks Kawedanan Kroya lebih besar dari pada eks Kawedanan Kroya, karena waktu itu belum terdapat Distrik Kalireja, yang dibentuk dari sub-bagian Distrik Adiraja dan sebagai Distrik Banyumas. Sehingga luas kawasan Onder Regentschap Cilacap masih lebih besar dari luas Kabupaten Cilacap sekarang.
+Pada masa Residen Banyumas ke-9 Van de Moore mengajukan usul Pemerintah Hindia Belanda pada tanggal 3 Oktober 1855 yang ditandatangani Gubernur Jenderal Duijmaer Van Tuist, kepada Menteri Kolonial Kerajaan Belanda dalam Kabinet Sreserpt pada tanggal 29 Desember 1855 Nomor 86, dan surat rahasia Menteri Kolonial tanggal 5 Januari 1856 Nomor 7/A disampaikan kepada Gubernur Jenderal Hindia Belanda.
+Usul pembentukan Kabupaten Cilacap menurut Menteri Kolonial bermakna dua yaitu permohonan persetujuan pembentukan Kabupaten Cilacap dan organisasi bestir pribumi dan pengeluaran anggaran lebih dari F.5.220 per tahun yang keduanya memerlukan persetujuan Raja Belanda,setelah menerima surat rahasia Menteri Kolonial Pemerintah Hindia Belanda dengan besluit Gubernur Jenderal tanggal 21 Maret 1856 Nomor 21 antara lain menetapkan Onder Regentschap Cilacap ditingkatkan menjadi Regentschap (Kabupaten Cilacap).
+</string>
+    <string name="lambang_motto_sesanti">Lambang, Motto &amp; Sesanti</string>
+    <string name="arti_lambang">Bentuk dan Wujud Lambang Daerah\n\nBintang Segi Lima;\nMelambangkan keluhuran cita-cita masyarakat daerah yang berkepribadian Pancasila.\n\nTugu Pahlawan dengan lidah api diatas gelombang Laut Selatan;\nTugu Pahlawan melambangkan perjuangan heroik masyarakat Daerah dimasa Revolusi 1945.\nLidah api menunjukkan hitungan 5, berarti perjuangan yang berdasarkan Pancasila.\nGelombang Laut Selatan dengan lekuk gelombang berjumlah 4 dihubungkan dengan lidah api (5) berarti bahwa perjuangan yang berkobar-kobar sejak Revolusi 45 berdasarkan UUD 45 dan jiwa juang 45.\n\nKembang Wijayakusuma;\nMerupakan lambang Wahyu Negara pada saat masih berbentuk kerajaan.\nWijayakusuma menjadi nama pengenal khas dan merupakan lambang hidup daerah.\nKembang ini hanya ada dan tumbuh di Cilacap saja (bunga gaib).\n\n
+
+Padi dan Kapas;\n
+Melambangkan keluhuran cita-cita masyarakat Daerah mewujudkan masyarakat adil dan makmur dalam mengemban Amanat Penderitaan Rakyat.\n
+Padi dan Kapas bermakna kegiatan masyarakat di bidang pangan dan sandang.\n
+Jumlah butir padi 17 dan kapas 8, dihubungkan dengan Kembang Wijayakusuma yang berkelopak 4 dan berdaun bunga 5, menunjukkan betapa keramatnya Proklamasi Tujuhbelas Delapan Empatlima.\n\n
+
+Ikan Hiu;\n
+Ikan Hiu melambangkan Cilacap berada di daerah pantai laut selatan, penghasil ikan, dan sebagian dari masyarakatnya adalah nelayan.\n\n
+
+Warna Lambang Daerah dan maknanya\n\n
+Warna Merah Hati :\n
+Keberanian, keuletan, kewaspadaan serta melambangkan perjuangan yang gagah berani.\n
+Warna Kuning Emas :\n
+Keluhuran didalam mengemban tugas.\n
+Warna Putih :\n
+Kesucian jiwa.\n
+Warna Hitam :\n
+Ketenangan dan ketabahan.\n
+Warna Hijau :\n
+kesuburan dan kemakmuran.\n
+Warna Biru Laut / Biru Tua :\n
+Cilacap terletak di pantai selatan, Samudera Indonesia. Seluruh warna menggambarkan kepribadian masyarakat Daerah.</string>
+
+    <string name="arti_motto">JALA  :  Air, Lautan \nBHUMI  : Tanah, Daratan \nWIJAYAKUSUMA  :  Bunga Kejayaan \nÇAKTI  :  Ilmu Tertinggi</string>
+    <string name="arti_sesanti">CILACAP BERCAHAYA \n Bersih  Elok  Rapi  Ceria  Hijau  Aman  Jaya</string>
+
+
+    <string name="versi_aplikasi">Versi aplikasi : 1.0</string>
+    <string name="buku_panduan">Buku Panduan :</string>
+    <string name="no1"> 1. Lakukan login/register supaya bisa menggunakan aplikasi.</string>
+    <string name="no11"> aplikasi.</string>
+    <string name="no2"> 2. Pilih kategori yang akan dilihat yaitu Wisata, Kuliner</string>
+    <string name="no22"> dan Akses Transportasi.</string>
+    <string name="no3"> 3. Pilih jenis Wisata, Kuliner atau Akses Transportasi </string>
+    <string name="no33"> yang sudah tersedia pada list.</string>
+    <string name="no4"> 4. User dapat mengetahui informasi lebih detail pada</string>
+    <string name="no44"> halaman deskripsi atau informasi.</string>
+    <string name="no5"> 5. Jika user ingin mengetahui letak lokasi atau rute </string>
+    <string name="no55"> Kabupaten Cilacap bisa lakukan klik button lokasi</string>
+    <string name="no555"> pada halaman Profil.</string>
+    <string name="btn_maps">LOKASI</string>
+
+    <string name="lokasii">
+        <a href="https://www.google.co.id/maps/place/Alun-Alun+Kota+Cilacap/@-7.7273364,109.0095231,17z/data=!3m1!4b1!4m5!3m4!1s0x2e65128550d912a9:0xff3d456a1f7ca839!8m2!3d-7.7273364!4d109.0095231">Lokasi</a>
+    </string>
+
+    <string name="benteng_pendem">
+        <a href="https://www.google.co.id/maps/place/Benteng+Pendem+Cilacap/@-7.7492326,109.015081,17z/data=!3m1!4b1!4m5!3m4!1s0x2e651284c34eda95:0x6e3a53a2def818bd!8m2!3d-7.7492326!4d109.0172697">Lokasi</a>
+    </string>
+    <string name="teluk_penyu">
+        <a href="https://www.google.co.id/maps/place/Pantai+Teluk+Penyu+Cilacap/@-7.7518308,109.0182878,17z/data=!3m1!4b1!4m5!3m4!1s0x2e651269f14e262d:0xe5a2f5d787704f88!8m2!3d-7.7518308!4d109.0204765">Lokasi</a>
+    </string>
+    <string name="kubangkangkung">
+        <a href="https://www.google.co.id/maps/place/Waduk+Kubangkangkung/@-7.6149873,108.9606863,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNqxYL-5Z1ieIYkHqz9hUZLBH7XTIEEyY1dPud8!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNqxYL-5Z1ieIYkHqz9hUZLBH7XTIEEyY1dPud8%3Dw203-h270-k-no!7i3456!8i4608!4m5!3m4!1s0x2e6571878c9c4c25:0x10dba6c41d15cc2c!8m2!3d-7.61487!4d108.9604996">Lokasi</a>
+    </string>
+    <string name="kemit_forest">
+        <a href="https://www.google.co.id/maps/place/Kemit+Forest+Education/@-7.4671448,108.8405241,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6578c50bcfed7d:0x99869b2043f0c892!8m2!3d-7.4671448!4d108.8405241">Lokasi</a>
+    </string>
+    <string name="mandala">
+        <a href="https://www.google.co.id/maps/place/Curug+Mandala/@-7.5905124,109.0543166,17z/data=!3m1!4b1!4m5!3m4!1s0x2e656e8d2a697493:0x18543298e2853f76!8m2!3d-7.5905124!4d109.0543166">Lokasi</a>
+    </string><string name="cimandaway">
+        <a href="https://www.google.co.id/maps/place/Curug+Cimandaway/@-7.2177472,108.6084497,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6f7017acd86777:0xe6e0ba69b137ebb6!8m2!3d-7.2177472!4d108.6084497">Lokasi</a>
+    </string>
+    <string name="gunung_selok">
+        <a href="https://www.google.co.id/maps/place/Gn.+Selok/@-7.6802776,109.1791667,14z/data=!3m1!4b1!4m5!3m4!1s0x2e656aaeff94d889:0x4c3080dc2a82cc6d!8m2!3d-7.6802778!4d109.1791667">Lokasi</a>
+    </string>
+    <string name="segara_anakan">
+        <a href="https://www.google.co.id/maps/place/Laguna+Segara+Anakan/@-8.125736,108.2281876,7.58z/data=!4m8!1m2!2m1!1ssegara+anakan!3m4!1s0x0:0xd9f074bbeaa5e289!8m2!3d-7.6817319!4d109.0063477">Lokasi</a>
+    </string>
+    <string name="kemiren">
+        <a href="https://www.google.co.id/maps/place/Pantai+Kemiren/@-7.6970644,109.0576714,17z/data=!3m1!4b1!4m5!3m4!1s0x2e651332715d8c6f:0x7953445f896b09e3!8m2!3d-7.6970644!4d109.0576714">Lokasi</a>
+    </string>
+    <string name="hutan_payau">
+        <a href="https://www.google.co.id/maps/place/Wisata+Hutan+Payau/@-7.668021,109.029251,17z/data=!3m1!4b1!4m5!3m4!1s0x2e656d116c7e392b:0x326f27a76ac0b921!8m2!3d-7.668021!4d109.029251">Lokasi</a>
+    </string>
+
+    <string name="cita_rasa">
+        <a href="https://www.google.co.id/maps/place/Cita+Rasa+Mandiri+Toko/@-7.7047341,109.0223527,17z/data=!3m1!4b1!4m5!3m4!1s0x2e65129619f10a2b:0xab45b5d71239db75!8m2!3d-7.7047341!4d109.0223527">Lokasi</a>
+    </string>
+
+    <string name="cemilland">
+        <a href="https://www.google.co.id/maps/place/Toko+Oleh+Oleh+CemilLand/@-7.7210299,109.0185912,17z/data=!3m1!4b1!4m5!3m4!1s0x2e65129480871885:0x7a5e55089b5c4620!8m2!3d-7.7210299!4d109.0185912">Lokasi</a>
+    </string>
+
+    <string name="valery">
+        <a href="https://www.google.co.id/maps/place/Toko+Valery/@-7.7010261,109.0256182,3a,75y,90t/data=!3m8!1e2!3m6!1sSflUZMT8_MXNkfy89hiOACmAXkaITWZdKrmeaRNtEXHVWo-Rv1QoYb_21bW29vJc!2e9!3e27!6s%2F%2Flh4.googleusercontent.com%2FSflUZMT8_MXNkfy89hiOACmAXkaITWZdKrmeaRNtEXHVWo-Rv1QoYb_21bW29vJc%3Dw153-h86-k-no!7i4160!8i2336!4m5!3m4!1s0x2e6512b7f7d17c01:0x801ee2d85507695f!8m2!3d-7.7008949!4d109.025458">Lokasi</a>
+    </string>
+
+    <string name="Panginyongan">
+        <a href="https://www.google.co.id/maps/place/Panginyongan/@-7.706019,109.021153,17z/data=!3m1!4b1!4m5!3m4!1s0x2e6512b80f499419:0xfacfbb792c7c396a!8m2!3d-7.706019!4d109.021153">Lokasi</a>
+    </string>
+    <string name="aplikasi_by">Aplikasi oleh : Delta Putri Dewanda</string>
+    <string name="logo_by">Logo dan Gambar oleh : Delta Putri Dewanda</string>
+
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="nama_kuliner">Nama Kuliner</string>
+    <string name="nama_umkm">Nama UMKM</string>
+    <string name="nama_resto">Nama Resto</string>
+
+    <string name="nama_transportasi">Nama Transportasi</string>
+    <string name="nama_travel">Nama Travel</string>
+    <string name="nama_bus">Nama Bus</string>
+    <string name="nama_kereta">Nama Kereta</string>
+    <string name="nama_pesawat">Nama Pesawat</string>
+
+    <string name="detail_wisata">Detail Wisata</string>
+    <string name="detail_kuliner">Detail Kuliner</string>
+    <string name="detail_umkm">Detail UMKM</string>
+    <string name="detail_resto">Detail Resto</string>
+    <string name="detail_transportasi">Detail Transportasi</string>
+    <string name="detail_travel">Detail Travel</string>
+    <string name="detail_bus">Detail Bus</string>
+    <string name="detail_kereta">Detail Kereta</string>
+    <string name="detail_pesawat">Detail Pesawat</string>
+    <string name="gambar">Gambar</string>
+
+    <string name="alamat_umkm">Alamat UMKM</string>
+    <string name="alamat_resto">Alamat Resto</string>
+
+    <string name="jam_buka_umkm">Jam buka</string>
+    <string name="jam_buka_resto">Jam buka</string>
+    <string name="kontak">Kontak</string>
+
+<!--    <string-array name="nama_wisata">-->
+<!--        <item>Benteng Pendem</item>-->
+<!--        <item>Pantai Teluk Penyu</item>-->
+<!--        <item>Curug Mandala</item>-->
+<!--        <item>Curug Cimandaway</item>-->
+<!--        <item>Kemit Forest</item>-->
+<!--        <item>Gunung Selok</item>-->
+<!--        <item>Wisata Hutan Payau</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="deskripsi">-->
+<!--        <item>Ini adalah wisata Benteng Pendem</item>-->
+<!--        <item>Ini adalah wisata Pantai Teluk Penyu</item>-->
+<!--        <item>Ini adalah wisata Curug Mandala</item>-->
+<!--        <item>Ini adalah wisata Curug Cimandaway</item>-->
+<!--        <item>Ini adalah wisata Kemit Forest</item>-->
+<!--        <item>Ini adalah wisata Gunung Selok</item>-->
+<!--        <item>Ini adalah wisata Hutan Payau</item>-->
+<!--    </string-array>-->
+
+</resources>
